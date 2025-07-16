@@ -15,6 +15,10 @@ PCL 1.13.1: https://github.com/PointCloudLibrary/pcl/releases
 
 VCG: https://github.com/cnr-isti-vclab/vcglib (it has been added into the project)
 
+## EXE
+
+For quick testing, we provide an exe file for remeshing directly.
+
 ## Updating
 
 2025/07
