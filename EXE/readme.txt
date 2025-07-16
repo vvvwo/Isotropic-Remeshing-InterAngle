@@ -1,8 +1,9 @@
-Mesh2PC
+Isotropic Remeshing
 使用start.bat运行程序
 参数说明：
-Mesh2PC.exe bowl.obj 8 5.0
-bowl.obj： 输入模型路径名
-8： 上采样点数控制，越大点数越多
-5.0: 密度控制，调整输出点云的密度，可省略使用程序默认估计值
+ISORemeshing.exe T0.obj T0-out.obj 1 10
+T0.obj：     输入模型路径名
+T0-out.obj： 输出模型（经过重采样后）路径名
+1：          平均边长倍数。越大，网格约稀疏
+10:          重采样迭代次数，建议5-10
 
