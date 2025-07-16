@@ -1,5 +1,8 @@
 # Isotropic-Remeshing-InterAngle
-This is a project based on a paper "Isotropic Remeshing with Inter-Angle Optimization", accepted by The 13th International Conference on Image and Graphics, ICIG2025.
+This is a project based on a paper "Isotropic Remeshing with Inter-Angle Optimization".
+
+It is accepted by The 13th International Conference on Image and Graphics, ICIG2025.
+
 Created by Chenlei Lv from Shenzhen University. Personal Website: https://aliexken.github.io/
 
 <img width="2217" height="773" alt="F6_mesh" src="https://github.com/user-attachments/assets/f77e2625-03a6-47a1-aa2b-6c5c16d3a8ab" />
