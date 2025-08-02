@@ -5,7 +5,8 @@ It is accepted by The 13th International Conference on Image and Graphics, ICIG2
 
 Created by Chenlei Lv from Shenzhen University. Personal Website: https://aliexken.github.io/
 
-<img width="2217" height="773" alt="F6_mesh" src="https://github.com/user-attachments/assets/f77e2625-03a6-47a1-aa2b-6c5c16d3a8ab" />
+<img width="2217" height="759" alt="mesh" src="https://github.com/user-attachments/assets/4cd2fc34-e4f9-4eca-a128-0ba19bd1f530" />
+
 
 ## Abstract
 
